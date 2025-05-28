@@ -1,4 +1,4 @@
-# PCG-Playlist
+# PCG-Playlist 🔊
 
 # 1. INTRODUÇÃO
 
